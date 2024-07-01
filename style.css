@@ -1,0 +1,12 @@
+.navbar-brand{
+    color: greenyellow;
+}
+.nav-link:hover{
+    color:  rgb(147, 208, 57);
+}
+.sec-2{
+    background-image: url(./images/banner.jpg);
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
